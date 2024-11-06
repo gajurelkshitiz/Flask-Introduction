@@ -1,8 +1,8 @@
-# This is Flask Introduction Tutorial.
+# To-Do-List in Flask. 
 
 
 
-> `This tutorial covers Flask Concepts and a project of To-Do-List in Flask.`
+> `This is Flask Introduction Tutorial.  `
 
 ``` Python
 
@@ -21,8 +21,11 @@ if __name__ == "__main__":
 ```
 
 ### Flask:
-![Python logo](./download.png)
+![Flask logo](./download.png)
 
 
-> This is Daily practise series.
 
+
+> Here is the demo of user interface in localhost.
+
+![Demo Photo](./demo1.png)
